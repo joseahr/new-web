@@ -1,0 +1,26 @@
+{
+  "name": "joseahr.github.io",
+  "version": "1.0.0",
+  "description": "My priceless Nuxt.js project",
+  "author": "Jose Hermosilla Rodrigo",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "cross-env": "^5.2.0",
+    "nuxt": "^2.0.0",
+    "vuelayers": "^0.10.13",
+    "vuetify": "^1.3.0"
+  },
+  "devDependencies": {
+    "@mdi/font": "^2.8.94",
+    "nodemon": "^1.11.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
+  }
+}
